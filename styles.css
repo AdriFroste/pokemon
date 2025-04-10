@@ -1,6 +1,5 @@
-/* Capa principal */
 .pokemon-card {
-    background-color: #f0f0f0; /* Gris clar */
+    background-color: #009b7d;
     border-radius: 16px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     padding: 24px;
@@ -12,32 +11,28 @@
     transform: translate(-50%, -50%);
   }
   
-  /* Imatge */
   .pokemon-image {
     max-width: 100%;
     border-radius: 12px;
     margin-bottom: 16px;
   }
   
-  /* Informació del Pokémon */
   .pokemon-info {
-    background-color: #c8facc; /* Verd clar */
+    background-color: #0a5e4a;
     border-radius: 12px;
     padding: 16px;
     margin-bottom: 12px;
   }
   
-  /* Nom del Pokémon */
   .pokemon-name {
-    font-family: 'Comic Sans MS', cursive, sans-serif; /* Tipus distintiu */
+    font-family: 'Comic Sans MS', cursive, sans-serif; 
     font-size: 1.5rem;
-    color: #2c3e50; /* Contrast amb el verd clar */
+    color: #ffff00;
     margin-bottom: 8px;
   }
   
-  /* Tipus de Pokémon */
   .pokemon-type {
-    color: #4caf50; /* Verd per a Planta */
+    color: #fcf75e; 
     margin-bottom: 8px;
   }
   
@@ -47,9 +42,8 @@
   }
   */
   
-  /* Descripció */
   .pokemon-description {
     font-size: 0.9rem;
-    color: #7f8c8d; /* Gris clar */
+    color: #f8f48b;
   }
   
